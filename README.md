@@ -1,2 +1,2 @@
 # Space Invaders
-This is a Space Invaders game that I made in Python using pygame, with a bit of help from a tutorial.
+This is a Space Invaders game that I made in Python using pygame, with a bit of help from a tutorial. Run `python3 main.py` in a terminal if you have Python 3. NOTE: **ALL** of the files uploaded are needed to run the program.
